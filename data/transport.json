@@ -15,7 +15,7 @@
     "vendredi": "*",
     "samedi": "*",
     "Dimanche": "*",
-    "prix": 3.0
+    "prix": 31.500
   },
   {
     "_id": 2,
@@ -321,7 +321,7 @@
     "vendredi": "*",
     "samedi": "*",
     "Dimanche": "*",
-    "prix": 3.0
+    "prix": 31.400
   },
   {
     "_id": 19,
@@ -24055,7 +24055,7 @@
     "Nom": "TUNIS -ELFAOUAR",
     "Station": "TUNIS",
     "Aller": "11:00",
-    "Retour": "19:15",
+    "Retour": "21:15",
     "Lundi": "*",
     "Mardi": "*",
     "Mercredi": "*",
@@ -24063,7 +24063,7 @@
     "vendredi": "*",
     "samedi": "*",
     "Dimanche": "*",
-    "prix": 3.0
+    "prix": 39.400
   },
   {
     "_id": 1338,
@@ -24405,7 +24405,7 @@
     "vendredi": "*",
     "samedi": "*",
     "Dimanche": "*",
-    "prix": 16.0
+    "prix": 39.600
   },
   {
     "_id": 1357,
